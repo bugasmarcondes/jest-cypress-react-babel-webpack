@@ -37,3 +37,12 @@ at kent@doddsfamily.us
 - npm install --save-dev eslint-plugin-cypress
 - configuring .eslintrc to support Cypress
 - adding rules into .gitignore
+
+<p align="center" style="font-size: 1.2rem;">
+  Write the First Cypress Test
+</p>
+
+<hr />
+
+- npx cypress open
+  - execute this command to start running tests
