@@ -58,3 +58,14 @@ at kent@doddsfamily.us
 <hr />
 
 - configuring cypress.json
+
+<hr />
+
+<p align="center" style="font-size: 1.2rem;">
+  Installing Cypress Testing Library
+</p>
+
+<hr />
+
+- npm install --save-dev in this specific version "@testing-library/cypress": "^5.0.2"
+- configure cypress/support/index.js
