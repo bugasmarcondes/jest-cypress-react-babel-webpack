@@ -206,3 +206,14 @@ at kent@doddsfamily.us
 <hr />
 
 - configure test
+
+<hr />
+
+<p align="center" style="font-size: 1.2rem;">
+  Install React DevTools with Cypress
+</p>
+
+<hr />
+
+- install React Developer Tools extension for ChromeCypress
+- register our app within Dev Tools
