@@ -116,3 +116,13 @@ at kent@doddsfamily.us
 <hr />
 
 - fail test, then implement it
+
+<hr />
+
+<p align="center" style="font-size: 1.2rem;">
+  Simulate HTTP Errors in Cypress Tests
+</p>
+
+<hr />
+
+- configure test
