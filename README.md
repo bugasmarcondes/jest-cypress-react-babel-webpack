@@ -106,3 +106,13 @@ at kent@doddsfamily.us
 
 - npm install --save-dev test-data-bot
 - configure test
+
+<hr />
+
+<p align="center" style="font-size: 1.2rem;">
+  Cypress Driven Development
+</p>
+
+<hr />
+
+- fail test, then implement it
