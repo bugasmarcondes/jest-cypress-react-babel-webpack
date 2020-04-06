@@ -146,3 +146,13 @@ at kent@doddsfamily.us
 <hr />
 
 - replace clicks with a single call to a HTTP request for registering a user, making our test simpler to maintain
+
+<hr />
+
+<p align="center" style="font-size: 1.2rem;">
+  Keep Tests Isolated and Focused with Custom Cypress Commands
+</p>
+
+<hr />
+
+- configure command for reusability
