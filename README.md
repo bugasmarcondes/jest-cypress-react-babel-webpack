@@ -136,3 +136,13 @@ at kent@doddsfamily.us
 <hr />
 
 - configure test
+
+<hr />
+
+<p align="center" style="font-size: 1.2rem;">
+  Create a User with cy.request from Cypress
+</p>
+
+<hr />
+
+- replace clicks with a single call to a HTTP request for registering a user, making our test simpler to maintain
