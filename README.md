@@ -126,3 +126,13 @@ at kent@doddsfamily.us
 <hr />
 
 - configure test
+
+<hr />
+
+<p align="center" style="font-size: 1.2rem;">
+  Test User Login with Cypress
+</p>
+
+<hr />
+
+- configure test
