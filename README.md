@@ -69,3 +69,19 @@ at kent@doddsfamily.us
 
 - npm install --save-dev in this specific version "@testing-library/cypress": "^5.0.2"
 - configure cypress/support/index.js
+
+<hr />
+
+<p align="center" style="font-size: 1.2rem;">
+  Script Cypress for Local Development and Continuous Integration
+</p>
+
+<hr />
+
+- npm install --save-dev start-server-and-test
+- configurar travis.yml para instalar depências que o cypress precisa
+- executar npm run test:e2e
+  - executa cy:open para testarmos visualmente
+- executar npm run test:e2e:run
+  - executa cy:run para testarmos em headless mode
+- adicionamos a execução do headless mode também no husky, pois este é um projeto bem pequeno e não teria tanto impacto ao realizar os commits
