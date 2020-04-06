@@ -156,3 +156,13 @@ at kent@doddsfamily.us
 <hr />
 
 - configure command for reusability
+
+<hr />
+
+<p align="center" style="font-size: 1.2rem;">
+  Use Custom Cypress Command for Reusable Assertions
+</p>
+
+<hr />
+
+- reducing duplication of code
