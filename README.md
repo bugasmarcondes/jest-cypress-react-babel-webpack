@@ -166,3 +166,13 @@ at kent@doddsfamily.us
 <hr />
 
 - reducing duplication of code
+
+<hr />
+
+<p align="center" style="font-size: 1.2rem;">
+  Run Tests as an Authenticated User with Cypress
+</p>
+
+<hr />
+
+- configure test
