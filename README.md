@@ -176,3 +176,13 @@ at kent@doddsfamily.us
 <hr />
 
 - configure test
+
+<hr />
+
+<p align="center" style="font-size: 1.2rem;">
+  Use cy.request from Cypress to Authenticate as a New User
+</p>
+
+<hr />
+
+- configure test
