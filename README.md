@@ -196,3 +196,13 @@ at kent@doddsfamily.us
 <hr />
 
 - configure test
+
+<hr />
+
+<p align="center" style="font-size: 1.2rem;">
+  Combine Custom Cypress Commands into a Single Custom Command
+</p>
+
+<hr />
+
+- configure test
