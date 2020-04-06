@@ -95,3 +95,14 @@ at kent@doddsfamily.us
 <hr />
 
 - calling methods to debug a test in Cypress
+
+<hr />
+
+<p align="center" style="font-size: 1.2rem;">
+  Test User Registration with Cypress
+</p>
+
+<hr />
+
+- npm install --save-dev test-data-bot
+- configure test
