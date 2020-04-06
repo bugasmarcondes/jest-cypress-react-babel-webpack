@@ -6,10 +6,16 @@ describe('anonymous calculator', () => {
       .findByText(/^\+$/)
       .click()
       .findByText(/^2$/)
+      // .then(subject => {
+      //   debugger
+      //   return subject
+      // })
+      //.debug()
+      //.pause()
       .click()
       .findByText(/^=$/)
       .click()
       .findByTestId('total')
-      .should('have.text', '3')
+      .should('have.text', '4')
   })
 })

@@ -85,3 +85,13 @@ at kent@doddsfamily.us
 - executar npm run test:e2e:run
   - executa cy:run para testarmos em headless mode
 - adicionamos a execução do headless mode também no husky, pois este é um projeto bem pequeno e não teria tanto impacto ao realizar os commits
+
+<hr />
+
+<p align="center" style="font-size: 1.2rem;">
+  Debug a Test with Cypress
+</p>
+
+<hr />
+
+- calling methods to debug a test in Cypress
