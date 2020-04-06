@@ -186,3 +186,13 @@ at kent@doddsfamily.us
 <hr />
 
 - configure test
+
+<hr />
+
+<p align="center" style="font-size: 1.2rem;">
+  Use a Custom Cypress Command to Login as a User
+</p>
+
+<hr />
+
+- configure test
