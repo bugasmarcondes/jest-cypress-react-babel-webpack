@@ -20,15 +20,11 @@ This material is available for private, non-commercial use under the
 would like to use this material to conduct your own workshop, please contact me
 at kent@doddsfamily.us
 
-<h1 align="center">
-  Tutorial
-</h1>
-
-<p align="center" style="font-size: 1.2rem;">
-  Install and Run Cypress
-</p>
-
 <hr />
+
+## Annotations
+
+### Install and Run Cypress
 
 - npm install --save-dev cypress
   - testing commands
@@ -38,45 +34,21 @@ at kent@doddsfamily.us
 - configuring .eslintrc to support Cypress
 - adding rules into .gitignore
 
-<hr />
-
-<p align="center" style="font-size: 1.2rem;">
-  Write the First Cypress Test
-</p>
-
-<hr />
+### Write the First Cypress Test
 
 - npx cypress open
   - execute this command to start running tests
 
-<hr />
-
-<p align="center" style="font-size: 1.2rem;">
-  Configure Cypress in cypress.json
-</p>
-
-<hr />
+### Configure Cypress in cypress.json
 
 - configuring cypress.json
 
-<hr />
-
-<p align="center" style="font-size: 1.2rem;">
-  Installing Cypress Testing Library
-</p>
-
-<hr />
+### Installing Cypress Testing Library
 
 - npm install --save-dev in this specific version "@testing-library/cypress": "^5.0.2"
 - configure cypress/support/index.js
 
-<hr />
-
-<p align="center" style="font-size: 1.2rem;">
-  Script Cypress for Local Development and Continuous Integration
-</p>
-
-<hr />
+### Script Cypress for Local Development and Continuous Integration
 
 - npm install --save-dev start-server-and-test
 - configurar travis.yml para instalar depências que o cypress precisa
@@ -86,134 +58,56 @@ at kent@doddsfamily.us
   - executa cy:run para testarmos em headless mode
 - adicionamos a execução do headless mode também no husky, pois este é um projeto bem pequeno e não teria tanto impacto ao realizar os commits
 
-<hr />
-
-<p align="center" style="font-size: 1.2rem;">
-  Debug a Test with Cypress
-</p>
-
-<hr />
+### Debug a Test with Cypress
 
 - calling methods to debug a test in Cypress
 
-<hr />
-
-<p align="center" style="font-size: 1.2rem;">
-  Test User Registration with Cypress
-</p>
-
-<hr />
+### Test User Registration with Cypress
 
 - npm install --save-dev test-data-bot
 - configure test
 
-<hr />
-
-<p align="center" style="font-size: 1.2rem;">
-  Cypress Driven Development
-</p>
-
-<hr />
+### Cypress Driven Development
 
 - fail test, then implement it
 
-<hr />
-
-<p align="center" style="font-size: 1.2rem;">
-  Simulate HTTP Errors in Cypress Tests
-</p>
-
-<hr />
+### Simulate HTTP Errors in Cypress Tests
 
 - configure test
 
-<hr />
-
-<p align="center" style="font-size: 1.2rem;">
-  Test User Login with Cypress
-</p>
-
-<hr />
+### Test User Login with Cypress
 
 - configure test
 
-<hr />
-
-<p align="center" style="font-size: 1.2rem;">
-  Create a User with cy.request from Cypress
-</p>
-
-<hr />
+### Create a User with cy.request from Cypress
 
 - replace clicks with a single call to a HTTP request for registering a user, making our test simpler to maintain
 
-<hr />
-
-<p align="center" style="font-size: 1.2rem;">
-  Keep Tests Isolated and Focused with Custom Cypress Commands
-</p>
-
-<hr />
+### Keep Tests Isolated and Focused with Custom Cypress Commands
 
 - configure command for reusability
 
-<hr />
-
-<p align="center" style="font-size: 1.2rem;">
-  Use Custom Cypress Command for Reusable Assertions
-</p>
-
-<hr />
+### Use Custom Cypress Command for Reusable Assertions
 
 - reducing duplication of code
 
-<hr />
-
-<p align="center" style="font-size: 1.2rem;">
-  Run Tests as an Authenticated User with Cypress
-</p>
-
-<hr />
+### Run Tests as an Authenticated User with Cypress
 
 - configure test
 
-<hr />
-
-<p align="center" style="font-size: 1.2rem;">
-  Use cy.request from Cypress to Authenticate as a New User
-</p>
-
-<hr />
+### Use cy.request from Cypress to Authenticate as a New User
 
 - configure test
 
-<hr />
-
-<p align="center" style="font-size: 1.2rem;">
-  Use a Custom Cypress Command to Login as a User
-</p>
-
-<hr />
+### Use a Custom Cypress Command to Login as a User
 
 - configure test
 
-<hr />
-
-<p align="center" style="font-size: 1.2rem;">
-  Combine Custom Cypress Commands into a Single Custom Command
-</p>
-
-<hr />
+### Combine Custom Cypress Commands into a Single Custom Command
 
 - configure test
 
-<hr />
-
-<p align="center" style="font-size: 1.2rem;">
-  Install React DevTools with Cypress
-</p>
-
-<hr />
+### Install React DevTools with Cypress
 
 - install React Developer Tools extension for ChromeCypress
 - register our app within Dev Tools
