@@ -26,6 +26,8 @@ at kent@doddsfamily.us
 
 ### Install and Run Cypress
 
+- yarn run dev (run app in localhost)
+
 - npm install --save-dev cypress
   - testing commands
     - npx cypress --help
